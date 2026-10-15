@@ -2,7 +2,6 @@
 
 **Course:** Server Operating System (192-442)  
 **Lab group:** lab01  
-**Submission:** 
 **Student:** Than Min Aung(6705140064)
 
 ## 3a. AI-use declaration
